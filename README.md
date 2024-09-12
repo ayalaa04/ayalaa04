@@ -3,9 +3,9 @@ I am studying Electronic Systems Engineering Technology and minoring in Cybersec
 I'm currently in my junior fall semester at Texas A&M - College Station \
 Pronouns: she/her
 
-Connect with me! \
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/alline-ayala/))
-[![CodePen](https://img.shields.io/badge/CodePen-Profile-white?logo=codepen)]([https://codepen.io/your-profile](https://codepen.io/Beevee)) 
+Connect with me!  \
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alline-ayala/)  
+[![CodePen](https://img.shields.io/badge/CodePen-Profile-white?logo=codepen)](https://codepen.io/Beevee)
 
 What have I been up to?
 - Last summer, I participated in the Apple NACME AI/ML Intensive at USC!
