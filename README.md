@@ -8,7 +8,8 @@ Connect with me!  \
 [![CodePen](https://img.shields.io/badge/CodePen-Profile-white?logo=codepen)](https://codepen.io/Beevee)
 
 What have I been up to?
-- Last summer, I participated in the Apple NACME AI/ML Intensive at USC!
+- Autonomous weather satellite dish capstone using KrakenRF
+- 2 summers ago, I participated in the Apple NACME AI/ML Intensive at USC!
     - Here, I worked on numerous individual and group assignments relating to AIML
     - Some projects included: performing exploratory data analysis, predicting Titanic survivors, performing object ddetection, and studying the effects of biases
     - I also worked on a capstone project with two team members, were we created a Music Recommendation System for Apple Music and Spotify
